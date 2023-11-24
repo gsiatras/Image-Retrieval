@@ -15,7 +15,7 @@ Download dataset from: https://www.kaggle.com/datasets/mattbast/google-landmarks
 
 ### 4. Evaluation
 The trained model is evaluated on a custom dataset from Google Landmarks containing 100 images, 3 of them are similar to the query.
-Download dataset from: https://www.dropbox.com/scl/fo/v2cnpxvp50u43q8xs4ohg/h?rlkey=e6dhfxoe2bola2c7amd2k735m&dl=0, add it to a folder name Test_set in the working dir.  
+Download dataset from: [https://www.dropbox.com/scl/fo/v2cnpxvp50u43q8xs4ohg/h?rlkey=e6dhfxoe2bola2c7amd2k735m&dl=0](https://www.dropbox.com/scl/fo/v2cnpxvp50u43q8xs4ohg/h?rlkey=93l99utkrdpjx2x99jl0zgva1&dl=0), add it to a folder name Test_set in the working dir.  
 
 ### 5. GEM Pooling Layer
 The system incorporates the GEM (Generalized Mean) pooling layer, enhancing the model's ability to capture global context information. GEM pooling is known for its effectiveness in aggregating features, contributing to improved performance in image retrieval tasks.
