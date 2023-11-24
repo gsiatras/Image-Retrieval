@@ -10,7 +10,9 @@ The DatasetHandler module is responsible for managing datasets, including the te
 The core of the system is the Siamese model, which leverages triplet loss for training. The backbone architecture is built on the pre-trained ResNet50 model, known for its strong feature extraction capabilities. The model is designed to learn a robust representation of images, enabling effective similarity comparisons.
 
 ### 3. Training Data
-The Siamese model is trained on the Google Landmarks dataset, which can be accessed here. This dataset provides a diverse collection of images from various landmarks, allowing the model to learn generalized features.
+The Siamese model is trained on the Google Landmarks dataset, which can be accessed here. This dataset provides a diverse collection of images from various landmarks, allowing the model to learn generalized features.      
+Download dataset from: https://www.kaggle.com/datasets/mattbast/google-landmarks-2020-tfrecords, add it to a folder name Dataset in the working dir.
+
 
 ### 4. Evaluation
 The trained model is evaluated on a custom dataset from Google Landmarks containing 100 images, 3 of them are similar to the query.
