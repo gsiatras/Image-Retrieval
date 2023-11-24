@@ -1,6 +1,6 @@
 # Image Retrieval System
 ## Overview
-The Image Retrieval System is a project designed for efficient image retrieval using a Siamese model with triplet loss and ResNet50 as the backbone. The system is trained on the Google Landmarks dataset and evaluated on a custom dataset, providing a powerful tool for similarity-based image search.
+The Image Retrieval System is a powerful tool designed for efficient image retrieval, leveraging a Siamese model with triplet loss and ResNet50 as the backbone. This project is implemented in TensorFlow.
 
 ## Components
 ### 1. DatasetHandler
