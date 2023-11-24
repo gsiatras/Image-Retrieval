@@ -38,7 +38,7 @@ We succesfully retrieve all 4 images of the monument on our top 16. However, we 
 2.Install dependencies:      
 pip install -r requirements.txt
 3. Download the datasets and place in the appropriate directory described above   
-4. Download the weights if needed.      
+4. Download the weights if needed from https://www.dropbox.com/scl/fi/3fapxvmh0aah1iscim65n/siamese_model_weights-60epochs_augment_small_128.h5?rlkey=k1i4v3ud6f3suhqb1vw0ivow6&dl=0       
 5. Train the Siamese model:      
 python train.py
 6. Evaluate the model on your custom dataset:      
