@@ -1,6 +1,6 @@
 # Image Retrieval System
 ## Overview
-The Image Retrieval System is a powerful tool designed for efficient image retrieval, leveraging a Siamese model with triplet loss and ResNet50 as the backbone. This project is implemented in TensorFlow.
+The Image Retrieval System is a tool designed for efficient image retrieval, leveraging a Siamese model with triplet loss and ResNet50 as the backbone. Indexing using faiss. This project is implemented in TensorFlow.
 
 ## Components
 ### 1. DatasetHandler
