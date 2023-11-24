@@ -27,8 +27,7 @@ To optimize and accelerate the image retrieval process, the system utilizes Fais
 ### Training Loss:
 ![loss](https://github.com/gsiatras/Image_Retrieval_System/assets/94067900/6496cacf-10ce-4665-88d2-c46c1177b5f3)
 ### Retrieved images:    
-![60ep](https://github.com/gsiatras/Image_Retrieval_System/assets/94067900/b4367399-87c4-4e87-8b24-0f971ae4a955)
-<img width="501" alt="Screenshot_2" src="https://github.com/gsiatras/Image_Retrieval_System/assets/94067900/4158799f-6861-4986-b2a4-c9fb87b1dea2">
+
 
 
 
