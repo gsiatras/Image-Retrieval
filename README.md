@@ -33,6 +33,19 @@ To optimize and accelerate the image retrieval process, the system utilizes Fais
 
 We succesfully retrieve all 4 images of the monument on our top 16. However, we have big distances.
 
+## Usage
+1.Clone the repository      
+2.Install dependencies:      
+pip install -r requirements.txt
+3. Download the datasets and place in the appropriate directory described above   
+4. Download the weights if needed.      
+5. Train the Siamese model:      
+python train.py
+6. Evaluate the model on your custom dataset:      
+python evaluate.py
+
+
+
 
 
 
