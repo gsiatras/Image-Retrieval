@@ -29,7 +29,8 @@ To optimize and accelerate the image retrieval process, the system utilizes Fais
 ### Query image:
 ![query](https://github.com/gsiatras/Image_Retrieval_System/assets/94067900/74cab87e-3c2b-4f6a-b7ef-6cd59c63cc9f)
 ### Retrieved images:    
-<img width="501" alt="Screenshot_2" src="https://github.com/gsiatras/Image_Retrieval_System/assets/94067900/8f7dfc7a-79f4-4275-8661-b5b507708ce5">
+<img width="501" alt="Screenshot_2" src="https://github.com/gsiatras/Image_Retrieval_System/assets/94067900/8f7dfc7a-79f4-4275-8661-b5b507708ce5">        
+
 We succesfully retrieve all 4 images of the monument on our top 16. However, we have big distances.
 
 
