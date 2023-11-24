@@ -13,7 +13,7 @@ The core of the system is the Siamese model, which leverages triplet loss for tr
 The Siamese model is trained on the Google Landmarks dataset, which can be accessed here. This dataset provides a diverse collection of images from various landmarks, allowing the model to learn generalized features.
 
 ### 4. Evaluation
-The trained model is evaluated on a custom dataset to assess its performance in real-world scenarios. This evaluation helps validate the model's ability to generalize and retrieve similar images accurately.
+The trained model is evaluated on a custom dataset from Google Landmarks containing 100 images, 3 of them are similar to the query.
 
 ### 5. GEM Pooling Layer
 The system incorporates the GEM (Generalized Mean) pooling layer, enhancing the model's ability to capture global context information. GEM pooling is known for its effectiveness in aggregating features, contributing to improved performance in image retrieval tasks.
