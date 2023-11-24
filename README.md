@@ -14,7 +14,7 @@ The Siamese model is trained on the Google Landmarks dataset, which can be acces
 Download dataset from: https://www.kaggle.com/datasets/mattbast/google-landmarks-2020-tfrecords, add it to a folder name Dataset in the working dir.
 
 ### 4. Evaluation
-The trained model is evaluated on a custom dataset from Google Landmarks containing 100 images, 3 of them are similar to the query.
+The trained model is evaluated on a custom dataset from Google Landmarks containing 100 images, 5 of the same monument, the first is used as the query.
 Download dataset from: [https://www.dropbox.com/scl/fo/v2cnpxvp50u43q8xs4ohg/h?rlkey=e6dhfxoe2bola2c7amd2k735m&dl=0](https://www.dropbox.com/scl/fo/v2cnpxvp50u43q8xs4ohg/h?rlkey=93l99utkrdpjx2x99jl0zgva1&dl=0), add it to a folder name Test_set in the working dir.  
 
 ### 5. GEM Pooling Layer
@@ -26,8 +26,11 @@ To optimize and accelerate the image retrieval process, the system utilizes Fais
 ## Results
 ### Training Loss:
 ![loss](https://github.com/gsiatras/Image_Retrieval_System/assets/94067900/6496cacf-10ce-4665-88d2-c46c1177b5f3)
+### Query image:
+![query](https://github.com/gsiatras/Image_Retrieval_System/assets/94067900/74cab87e-3c2b-4f6a-b7ef-6cd59c63cc9f)
 ### Retrieved images:    
 <img width="501" alt="Screenshot_2" src="https://github.com/gsiatras/Image_Retrieval_System/assets/94067900/8f7dfc7a-79f4-4275-8661-b5b507708ce5">
+We succesfully retrieve all 4 images of the monument on our top 16. However, we have big distances.
 
 
 
