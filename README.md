@@ -1,4 +1,6 @@
 # Image Retrieval System
+<img width="1104" alt="Screenshot 2023-11-24 at 21 42 10" src="https://github.com/gsiatras/Image_Retrieval_System/assets/94067900/b57bc1f5-d829-4618-a139-5c0bacf767ea">    
+  
 ## Overview
 The Image Retrieval System is a tool designed for efficient image retrieval, leveraging a Siamese model with triplet loss and ResNet50 as the backbone. Indexing using faiss. This project is implemented in TensorFlow.
 
