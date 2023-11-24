@@ -24,5 +24,9 @@ The system incorporates the GEM (Generalized Mean) pooling layer, enhancing the 
 To optimize and accelerate the image retrieval process, the system utilizes Faiss indexing. Faiss is a library for efficient similarity search and clustering of dense vectors, providing a robust solution for large-scale retrieval scenarios.
 
 ## Results
+### Training Loss:
 ![loss](https://github.com/gsiatras/Image_Retrieval_System/assets/94067900/6496cacf-10ce-4665-88d2-c46c1177b5f3)
+### Retrieved images:    
+![60ep](https://github.com/gsiatras/Image_Retrieval_System/assets/94067900/b4367399-87c4-4e87-8b24-0f971ae4a955)
+
 
