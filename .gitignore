@@ -1,0 +1,26 @@
+# Ignore the dataset folder
+Dataset/*
+
+
+# Ignore compiled Python files and folders
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environment folders
+venv/
+env/
+
+# Ignore user-specific IDE or editor files
+.vscode/
+.idea/
+
+# Ignore any compiled binaries or libraries
+Lib/
+Scripts/
+
+# Ignore any shared files or folders
+share/
+/Model/
+/Test_set/
